@@ -59,7 +59,8 @@
     "postchangelog": "git commit -am \"chore(): update changelog\"",
     "test": "karma start karma.conf.js --single-run",
     "test:watch": "karma start karma.conf.js",
-    "readmes": "gulp readmes"
+    "readmes": "gulp readmes",
+    "gulp": "gulp"
   },
   "repository": {
     "type": "git",
